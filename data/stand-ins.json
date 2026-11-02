@@ -1,0 +1,20 @@
+[
+ {
+  "promoted": "Coventry City",
+  "stand_in": "West Ham United",
+  "route": "Championship winners",
+  "stand_in_finish": 18
+ },
+ {
+  "promoted": "Ipswich Town",
+  "stand_in": "Burnley",
+  "route": "Championship runners-up",
+  "stand_in_finish": 19
+ },
+ {
+  "promoted": "Hull City",
+  "stand_in": "Wolves",
+  "route": "Play-off winners",
+  "stand_in_finish": 20
+ }
+]
